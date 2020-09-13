@@ -1,0 +1,44 @@
+html{
+    background-color:sandybrown;
+}
+h1{
+    text-align: center;
+    border-style: dotted;
+    background-color: tomato;
+}
+h2{
+    text-align: center;
+    font-size: small;
+}
+h3{
+    font-family: 'Courier New', Courier, monospace;
+}
+p{
+    font-size: 20px;
+    font-style: italic;
+    color: crimson;
+}
+.content{
+
+    outline-style:outset;
+    background-color: burlywood;
+    text-align: center;
+}
+.image{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   max-width: 22%;
+ 
+}
+
+.main-area{
+    text-align: center;
+}
+
+.sidebar{
+    float:left;
+border: 3px solid black;
+
+}
